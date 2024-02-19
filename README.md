@@ -11,10 +11,12 @@ This project serves as an invaluable initiation into C programming, providing an
 
 ## Usage
 1. Clone the repository
-   `git clone git@github.com:dianazinchenko/libft.git`
+   ```bash
+   git clone git@github.com:dianazinchenko/libft.git
 2. Go inside the project folder and compile the library
    ```
    cd libft
    make
 3. To use the library, include the header file in your project
-   `#include "libft.h"`
+   ```
+   #include "libft.h"
