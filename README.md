@@ -22,5 +22,5 @@ This project serves as an invaluable initiation into C programming, providing an
    #include "libft.h"
 
 ## My Libft Results
-!(images/libft-sucess)
-!(images/libft-moulinette)
+![Libft Sucess](images/libft-sucess.png)
+![Libft Moulinette correction](images/libft-moulinette.png)
