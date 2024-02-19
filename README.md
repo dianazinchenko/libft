@@ -20,3 +20,7 @@ This project serves as an invaluable initiation into C programming, providing an
 3. To use the library, include the header file in your project
    ```c
    #include "libft.h"
+
+## My Libft Results
+!(images/libft-sucess)
+!(images/libft-moulinette)
