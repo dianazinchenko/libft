@@ -18,5 +18,5 @@ This project serves as an invaluable initiation into C programming, providing an
    cd libft
    make
 3. To use the library, include the header file in your project
-   ```bash
+   ```c
    #include "libft.h"
